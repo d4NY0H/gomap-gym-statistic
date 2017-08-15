@@ -1,0 +1,9 @@
+{
+  "map": {
+    "url":        "https://gomap.eu",
+    "boundNorth": "__EDIT__",
+    "boundEast":  "__EDIT__",
+    "boundSouth": "__EDIT__",
+    "boundWest":  "__EDIT__"
+  }
+}
