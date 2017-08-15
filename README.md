@@ -1,0 +1,1 @@
+# gomap-gym-statistic
